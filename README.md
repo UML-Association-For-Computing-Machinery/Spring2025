@@ -1,3 +1,7 @@
+[![Website](https://img.shields.io/badge/Website-UML%20Engage-blue.svg?style=for-the-badge)](https://umasslowellclubs.campuslabs.com/engage/organization/acm)
+[![Discord](https://img.shields.io/discord/890983857938116729?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/xVyR6J9ZMF)
+[![Email](https://img.shields.io/badge/Email-acm%40outlook.com-red.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:acm@outlook.com)
+
 # Association for Computing Machinery at UMass Lowell: Spring 2025
 
 Welcome to the Association for Computing Machinery at UMass Lowell! Our mission is to explore the field of computer science and its subfields. Whether you're a beginner or an expert, join us as we learn together, work on hands-on activities, and connect with industry professionals.
